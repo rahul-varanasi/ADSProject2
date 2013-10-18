@@ -13,5 +13,6 @@ This program will break if proper arguments are not provided.
 
 
 
-# TODO --> Implement proper error handling.
-# TODO --> Improve the overall program structure and efficiency.
+TODO --> Implement proper error handling.
+
+TODO --> Improve the overall program structure and efficiency.
